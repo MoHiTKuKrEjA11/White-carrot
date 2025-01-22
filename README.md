@@ -22,3 +22,9 @@ Google OAuth Login: Working perfectly, users can authenticate via their Google a
 Event Fetching: Currently, there are issues with fetching the events from the Google Calendar API. We are working on fixing the API integration to retrieve and display events correctly.
 Event Display: Events are not being displayed yet due to the current issue with fetching them, but this will be resolved in a future update.
 Filter Functionality: The filter functionality is implemented, but since events are not being fetched yet, the filter will not work until the event fetching issue is fixed.
+
+Installation:
+Clone the repository: https://github.com/MoHiTKuKrEjA11/White-carrot.git
+Navigate into the project directory: cd white-carrot
+Install the required dependencies: npm i
+Run the project: npm run dev
